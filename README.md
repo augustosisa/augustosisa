@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently working at [Universidad del Norte](https://www.uninorte.edu.co/web/ingenierias) in [Barranquilla, Colombia](https://en.wikipedia.org/wiki/Barranquilla) as a professor in Civil Engineering and Environmental Department.
+
+Usually I work in areas related with Water Resources, Public Health involving computational tools like GIS, Python, AI, Cloud computing, HPC.
